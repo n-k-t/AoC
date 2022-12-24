@@ -1,0 +1,1 @@
+/home/ntomczak/Documents/Git/AoC/AoC-2015/day-01/attempt-01/aoc2015-d01-a01-p2/target/release/aoc2015-d01-a01-p2: /home/ntomczak/Documents/Git/AoC/AoC-2015/day-01/attempt-01/aoc2015-d01-a01-p2/src/main.rs
